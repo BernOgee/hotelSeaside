@@ -1,0 +1,92 @@
+body{
+  font-family: 'Signika Negative', sans-serif;
+  /* background-color: #0096c7; */
+}
+
+#Home {
+  font-weight: 400;
+  background-color: #caf0f8;
+  color: #fff;
+  font-size: 1rem;
+  line-height: 1;
+  margin-bottom: 2rem;
+}
+
+#Home-2 {
+  background-color: #0096c7;
+}
+
+
+/* Homepage */
+
+.main-title {
+  text-align: center;
+  padding: 7% 15%;
+  color: #fff;
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 2;
+  background-color: #0096c7;
+}
+
+.main-title h1 {
+  font-size: 4.5rem;
+}
+
+#About {
+  margin-top: 1rem;
+  background-color: #fff;
+}
+
+/* testimonials */
+#testimonials {
+  text-align: center;
+  background-color: #00b4d8;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* rooms */
+#Rooms {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.rooms-text {
+  padding: 10% 15%;
+  margin-top: 2rem;
+}
+
+
+/* book */
+#Book h2 {
+  background-color: #00b4d8;
+  /* height: 8vh; */
+  padding: 5% 10%;
+}
+
+footer {
+  font-weight: 400;
+  background-color: #caf0f8;
+  color: #000;
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.footer-div  {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.footer-div i {
+  margin-right: 0.5rem;
+}
